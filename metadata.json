@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Smart Business Card Pro 20260128",
+  "description": "A professional digital business card system. Generate QR-coded cards that link to a high-fidelity contact page, allowing users to save details directly to their address book while tracking scan analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
